@@ -1,5 +1,5 @@
 
-# <i>My Web3 projects overview</i>
+# <i>My Bitcoin projects overview</i>
 
 These are my web3 projects
 As you know, I have built in several web3 projects on different networks.
